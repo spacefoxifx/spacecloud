@@ -1,0 +1,7 @@
+.u-section-1 {background-image: none}
+.u-section-1 .u-sheet-1 {min-height: 824px}
+.u-section-1 .u-text-1 {font-size: 1.875rem; margin: 65px 0 0}
+.u-section-1 .u-text-2 {margin: 11px 0 60px}
+.u-section-1 .u-btn-1 {padding: 0} 
+
+@media (max-width: 575px){ .u-section-1 .u-text-1 {font-size: 1.5rem} }
